@@ -18,7 +18,7 @@ y
 
 x-y
 
-# The function subtracts vector Y from vector x. The following rule is applied:
+# The function subtracts vector y from vector x. The following rule is applied:
 # the first number from Y is substracted from the first from X. This is also done for the second number.
 # Because vector X is with lenght 4 and Y with length 2 the program "clones" the Y vecotr
 # so that he has the same lenght as the vector X. We now have vector Y(1,4,1,4)
